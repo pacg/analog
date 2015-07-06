@@ -15,11 +15,11 @@ http://386amp.web.fc2.com/product.html
 
 :metal: | 名称  | URL | 参考価格
 ------------- | ------------- | ------------- | -------------
- | オペアンプ（LM386N) | http://akizukidenshi.com/catalog/g/gI-01295/ | 100円
+ | オペアンプ（LM386N) | http://akizukidenshi.com/catalog/g/gI-01295/  http://www.marutsu.co.jp/pc/i/2173/ | 100円
  | アルミ電解コンデンサ（16V 220μF） | | 40円
  | アルミ電解コンデンサ（16V 10μF） | | 20円
  | インプットジャック | | 90円
- | スピーカー（8Ω） | | 300円
+ | スピーカー（8Ω） | 1W http://www.marutsu.co.jp/pc/i/158755/ | 300円
  | 可変抵抗（50kΩ）Aカーブ・音量調整 | | 260円
  | 可変抵抗（5kΩ）Bカーブ・ゲイン調整 | | 120円
  | 9V電池スナップ | | 30円
