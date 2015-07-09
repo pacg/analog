@@ -28,7 +28,7 @@ http://386amp.web.fc2.com/product.html
  | 抵抗 | http://www.marutsu.co.jp/pc/i/18035/ | 10円
  | 基板 | http://www.marutsu.co.jp/pc/i/8472/ | 100円
  | 配線/m | http://www.marutsu.co.jp/pc/i/52688/  http://www.marutsu.co.jp/pc/i/52687/ | 30円
- | スイッチ | | 100円
+ | スイッチ | http://www.marutsu.co.jp/pc/i/15872/ | 100円
  | 箱（筐体） | | ただ
 
 
