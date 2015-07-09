@@ -25,7 +25,7 @@ http://386amp.web.fc2.com/product.html
  | 9V電池スナップ | http://www.marutsu.co.jp/pc/i/14367/ | 30円
  | 9V電池 | | 100円
  | LED | http://www.marutsu.co.jp/pc/i/10663/ | 200円
- | 抵抗 | http://www.marutsu.co.jp/pc/i/14103/ | 10円
+ | 抵抗 | http://www.marutsu.co.jp/pc/i/18035/ | 10円
  | 基板 | | 100円
  | 配線/m | | 30円
  | スイッチ | | 100円
